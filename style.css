@@ -1,8 +1,9 @@
 body {
-    background: rgb(0, 0, 0);
-    color: rgb(45, 45, 45);
+    background: rgb(43, 39, 39);
+    color: rgb(0, 0, 0);
     padding: 10px;
     font-family: Century,Gothic;
+    background-image: url("https://tcrf.net/images/thumb/b/bb/Xbox-ShadowtheHedgehog-TitleBgUnused-1.png/300px-Xbox-ShadowtheHedgehog-TitleBgUnused-1.png")
 }
 
 #all-contents {
